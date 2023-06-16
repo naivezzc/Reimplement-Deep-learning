@@ -11,3 +11,6 @@ At present, the repository includes the following models:
 ## Demo
 ### Inference on image
 ![image object detection](1.PNG)
+
+### Inference on camera
+![]
