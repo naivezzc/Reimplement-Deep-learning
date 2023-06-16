@@ -9,5 +9,5 @@ At present, the repository includes the following models:
 - FCOS [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355)
 
 ## Demo
-Inference on image
+### Inference on image
 ![image object detection](1.PNG)
