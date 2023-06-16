@@ -1,6 +1,8 @@
 # Reimplement-object detection
-This is a repository to store reimplementation of deep learning models
+## Introduction
+This repository serves as a storage for re-implementations of deep learning models. 
 
-Currently, following models are included
+At present, the repository includes the following models:
 
-[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
+Faster R-CNN [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
+FCOS [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355)
